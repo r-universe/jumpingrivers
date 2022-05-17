@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "datasauRus"]
+	path = datasauRus
+	url = https://github.com/jumpingrivers/datasaurus
+	shallow = true
+	registered = true
+[submodule "prettyB"]
+	path = prettyB
+	url = https://github.com/jumpingrivers/prettyb
+	shallow = true
+	registered = true

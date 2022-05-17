@@ -1,0 +1,10 @@
+[
+  {
+    "package": "datasauRus",
+    "oncran": true
+  },
+  {
+    "package": "prettyB",
+    "oncran": true
+  }
+]
