@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "namer",
+    "oncran": true
+  },
+  {
     "package": "prettyB",
     "oncran": true
   }

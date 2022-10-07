@@ -8,6 +8,11 @@
 	url = https://github.com/jumpingrivers/datasaurus
 	shallow = true
 	registered = true
+[submodule "namer"]
+	path = namer
+	url = https://github.com/jumpingrivers/namer
+	shallow = true
+	registered = true
 [submodule "prettyB"]
 	path = prettyB
 	url = https://github.com/jumpingrivers/prettyb
