@@ -8,6 +8,11 @@
 	url = https://github.com/jumpingrivers/datasaurus
 	shallow = true
 	registered = true
+[submodule "ibmsunburst"]
+	path = ibmsunburst
+	url = https://github.com/jumpingrivers/ibmsunburst
+	shallow = true
+	registered = true
 [submodule "namer"]
 	path = namer
 	url = https://github.com/jumpingrivers/namer
