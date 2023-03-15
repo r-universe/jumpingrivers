@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "namer"]
-	path = namer
-	url = https://github.com/jumpingrivers/namer
+[submodule "datasauRus"]
+	path = datasauRus
+	url = https://github.com/jumpingrivers/datasaurus
 	shallow = true
 	registered = true
 [submodule "ibmsunburst"]
@@ -13,9 +13,9 @@
 	url = https://github.com/jumpingrivers/ibmsunburst
 	shallow = true
 	registered = true
-[submodule "datasauRus"]
-	path = datasauRus
-	url = https://github.com/jumpingrivers/datasaurus
+[submodule "namer"]
+	path = namer
+	url = https://github.com/jumpingrivers/namer
 	shallow = true
 	registered = true
 [submodule "prettyB"]
