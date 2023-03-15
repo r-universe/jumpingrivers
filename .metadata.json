@@ -1,6 +1,6 @@
 [
   {
-    "package": "datasauRus",
+    "package": "namer",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "namer",
+    "package": "datasauRus",
     "oncran": true
   },
   {
