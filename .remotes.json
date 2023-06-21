@@ -1,0 +1,14 @@
+[
+  {
+    "package": "audit.base",
+    "url": "https://github.com/jumpingrivers/audit.base",
+    "via": ["audit.connect"],
+    "from": "audit.connect"
+  },
+  {
+    "package": "serverHeaders",
+    "url": "https://github.com/jumpingrivers/serverheaders",
+    "via": ["audit.connect"],
+    "from": "audit.connect"
+  }
+]
