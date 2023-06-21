@@ -6,9 +6,21 @@
     "from": "audit.connect"
   },
   {
+    "package": "audit.base",
+    "url": "https://github.com/jumpingrivers/audit.base",
+    "via": ["audit.workbench"],
+    "from": "audit.workbench"
+  },
+  {
     "package": "serverHeaders",
     "url": "https://github.com/jumpingrivers/serverheaders",
     "via": ["audit.connect"],
     "from": "audit.connect"
+  },
+  {
+    "package": "serverHeaders",
+    "url": "https://github.com/jumpingrivers/serverheaders",
+    "via": ["audit.workbench"],
+    "from": "audit.workbench"
   }
 ]
