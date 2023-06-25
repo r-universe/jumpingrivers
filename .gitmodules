@@ -1,25 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jumpingrivers/jumpingrivers.r-universe.dev
 	shallow = true
 	branch = HEAD
-[submodule "datasauRus"]
-	path = datasauRus
-	url = https://github.com/jumpingrivers/datasaurus
+[submodule "audit.base"]
+	path = audit.base
+	url = https://github.com/jumpingrivers/audit.base
 	shallow = true
 	registered = true
-[submodule "ibmsunburst"]
-	path = ibmsunburst
-	url = https://github.com/jumpingrivers/ibmsunburst
+[submodule "audit.connect"]
+	path = audit.connect
+	url = https://github.com/jumpingrivers/audit.connect
 	shallow = true
 	registered = true
-[submodule "namer"]
-	path = namer
-	url = https://github.com/jumpingrivers/namer
+[submodule "audit.workbench"]
+	path = audit.workbench
+	url = https://github.com/jumpingrivers/audit.workbench
 	shallow = true
 	registered = true
-[submodule "prettyB"]
-	path = prettyB
-	url = https://github.com/jumpingrivers/prettyb
+[submodule "serverHeaders"]
+	path = serverHeaders
+	url = https://github.com/jumpingrivers/serverHeaders
+	shallow = true
+	registered = true
+[submodule "inteRgrate"]
+	path = inteRgrate
+	url = https://github.com/jumpingrivers/inteRgrate
 	shallow = true
 	registered = true
