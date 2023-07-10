@@ -13,6 +13,12 @@
   },
   {
     "package": "serverHeaders",
+    "url": "https://github.com/jumpingrivers/serverHeaders",
+    "via": ["audit.base"],
+    "from": "audit.base"
+  },
+  {
+    "package": "serverHeaders",
     "url": "https://github.com/jumpingrivers/serverheaders",
     "via": ["audit.connect"],
     "from": "audit.connect"
