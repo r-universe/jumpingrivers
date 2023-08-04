@@ -25,8 +25,8 @@
   },
   {
     "package": "serverHeaders",
-    "url": "https://github.com/jumpingrivers/serverheaders",
-    "via": ["audit.workbench"],
+    "url": "https://github.com/jumpingrivers/serverHeaders",
+    "via": ["audit.workbench", "audit.base"],
     "from": "audit.workbench"
   }
 ]
