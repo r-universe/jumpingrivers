@@ -11,9 +11,9 @@
 [submodule "audit.workbench"]
 	path = audit.workbench
 	url = https://github.com/jumpingrivers/audit.workbench
-[submodule "serverHeaders"]
-	path = serverHeaders
-	url = https://github.com/jumpingrivers/serverHeaders
 [submodule "inteRgrate"]
 	path = inteRgrate
 	url = https://github.com/jumpingrivers/inteRgrate
+[submodule "serverHeaders"]
+	path = serverHeaders
+	url = https://github.com/jumpingrivers/serverHeaders
